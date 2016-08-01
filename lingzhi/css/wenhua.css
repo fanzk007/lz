@@ -1,0 +1,39 @@
+.text{
+	width: 1140px;
+	height: 888px;
+	margin: 30px auto 0px;
+	border: none;
+	overflow: hidden;
+	background:url(../img/shu.png) no-repeat #fff 16px 20px;
+}
+.text p{
+	padding-left: 43px;
+	padding-right: 26px;
+	font-size: 16px;
+	letter-spacing: -1px;
+	color: #3b3b3b;
+}
+.p1{
+	margin-top: 40px;
+}
+.p2{
+	margin-top: 95px;
+}
+.div1{
+	margin-top: 92px;
+}
+.div2{
+	margin-top: 92px;
+}
+.div2 p{
+	letter-spacing: -2px;
+}
+.div1 p,.div2 p{
+	line-height: 25px;
+}
+.p3{
+	font-weight: bold;
+}
+.p4{
+	margin-bottom: 10px;
+}

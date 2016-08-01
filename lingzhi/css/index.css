@@ -1,0 +1,212 @@
+*{
+	font-family: "microsoft yahei"
+}
+.img-show{
+	width: 100%;
+}
+.img-show img{
+	width: 100%;
+}
+.head{
+	width: 100%;
+	height: 34px;
+	min-width: 1140px;
+	background: #262626;
+}
+.head-m{
+	width: 1140px;
+	height: 34px;
+	margin: 0px auto;
+}
+.head-m ul {
+	height: 34px;
+}
+.head-m ul li{
+	float: left;
+	color: #fff;
+	height: 34px;
+	line-height: 34px;
+}
+.head-m ul li a{
+	color:#fff;
+	font-size: 12px;
+}
+.head-m ul .li1{
+	margin: 0px 64px 0px 106px;
+}
+
+.head-m ul .li3{
+	margin: 0px 50px 0px 50px;
+}
+.head-m ul .li5{
+	margin: 0px 30px 0px 30px;
+}
+.head-m ul .li7,.head-m ul .li8,.head-m ul .li9,.head-m ul .li10{
+	margin-left: 48px;
+}
+.head-m ul .li11 a{
+	float: left;
+	width: 13px;
+	height: 14px;
+	margin: 10px 0px 0px 48px;
+	background: url(../img/shouye/icon.png) no-repeat -39px 0px;
+}
+.middle{
+	width: 100%;
+	height: 31px;
+	min-width: 1140px;
+	background: #f5f5f6;
+}
+.middle-nars{
+	width: 1140px;
+	height: 31px;
+	margin: 0px auto;
+	border-top: 1px solid #e5e6e6;
+
+}
+.middle-nars ul li{
+	float: left;
+	height: 31px;
+	line-height: 31px;
+}
+.middle-nars ul .li-1{
+	font-size: 14px;
+	color: #46145b;
+}
+.middle-nars ul .li-2{
+	font-size: 12px;
+	margin-left: 132px;
+	color: #686868;
+}
+.middle-nars ul li a {
+	margin-left: 5px;
+}
+.middle-nars ul li a i{
+	background: url(../img/shouye/icon.png) no-repeat ;
+}
+.middle-nars ul .li2-2  a i{
+	float: left;
+	margin-top: 6px;
+	width: 11px;
+	height: 15px;
+	background-position:  0px 0px;
+}
+.middle-nars ul .li2-3  a i{
+	float: left;
+	margin-top: 10px;
+	width: 11px;
+	height: 11px;
+	background-position:  0px -20px;
+}
+.middle-nars ul .li2-4  a i{
+	float: left;
+	margin-top: 10px;
+	width: 12px;
+	height: 10px;
+	background-position:  -16px 0px;
+}
+.middle-nars ul .li2-5  a i{
+	float: left;
+	width: 13px;
+	margin-top: 8px;
+	height: 13px;
+	background-position:  0px -37px;
+}
+.show {
+	width: 1140px;
+	height: 326px;
+	margin: 0px auto;
+	border: 1px transparent solid;
+}
+.show .show-1{
+	width: 452px;
+	height: 325px;
+}
+.show .show-1 div .bg,.show .show-2 div .bg,.show .show-3 div .bg{
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: #999;
+	opacity: 0.5;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.show .show-1 div .bg-text,.show .show-2 div .bg-text,.show .show-3 div .bg-text{
+	display: none;
+	width: 106px;
+	height: 46px;
+	padding-top: 10px;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	line-height: 20px;
+	background-color: #ff48ce;
+}
+.show .show-1 div:hover .bg,.show .show-1 div:hover .bg-text,.show .show-2 div:hover .bg,.show .show-2 div:hover .bg-text,.show .show-3 div:hover .bg,.show .show-3 div:hover .bg-text{
+	display: block;
+}
+.show .show-2{
+	width: 452px;
+	height: 325px;
+	margin: 0px 7px 0px 7px;
+}
+.show .show-1 div{
+	float: right;
+}
+.show .show-1 .div-3,.show .show-1 .div-2{
+	margin-right: 8px;
+}
+.show .show-1 .div-3{
+	margin-top: 6px;
+}
+.show-2 div{
+	float: left;
+}
+.show-2  .div-5{
+	float: right;
+}
+.show-2  .div-2{
+	margin: 0px 8px 0px 8px;
+}
+.show-2  .div-7{
+	margin-left: 8px;
+}
+.show-3{
+	width: 222px;
+	height: 326px;
+}
+.show-1,.show-2,.show-3{
+	float: left;
+}
+/*底部*/
+.bottom{
+	width: 100%;
+	min-width: 1140px;
+	height: 60px;
+	background-color: #f4f4f4;
+}
+.bottom-text{
+	width: 1140px;
+	margin: 0px auto;
+}
+.bottom-text ul li {
+	float: left;
+	margin-right: 45px;
+	height: 60px;
+	line-height: 60px;
+}
+.bottom-text ul li a{
+	font-size: 12px;
+	color: #6a6a6a;
+}
+.bottom-text ul .li-1{
+	margin-right: 0px;
+}
+.bottom-text ul .li-2{
+	float: right;
+	font-size: 12px;
+	letter-spacing: -1px;
+	margin-right: 0px;
+	color: #9e9e9e;
+}

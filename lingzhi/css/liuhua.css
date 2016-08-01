@@ -1,0 +1,102 @@
+.text{
+	width: 1140px;
+	height: 818px;
+	margin: 38px auto 45px;
+	overflow: hidden;
+	background:  #f5f5f5;
+}
+.text-1{
+	width: 392px;
+	height: 689px;
+	margin: 0px auto;
+	padding-top: 56px;
+	padding-left: 48px;
+	padding-right: 50px;
+	background: url(../img/l-b.png) #fff no-repeat left bottom;
+}
+.text .p1{
+	width: 108px;
+	height: 28px;
+	margin: 46px 0px 0px 324px;
+	text-align: center;
+	line-height: 28px;
+	background: #cb00da;
+	color: #fff;
+	font-size: 16px;
+}
+.text-1 p{
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.text-1 p .outer{
+	float: left;
+	margin-left: 6px;
+}
+.text-1 p span{
+	float: left;
+	width: 60px;
+	text-align: right;
+	color: #3b3b3b;
+	height: 33px;
+	line-height: 33px;
+	font-size: 12px;
+}
+.input-1{
+	width: 198px;
+	height: 33px;
+	background: #ebebeb;
+}
+select{
+	float: left;
+	background: #ebebeb;
+	width: 82px;
+	height: 33px;
+}
+label{
+	color: #3b3b3b;
+	font-size: 12px;
+	margin-top: 10px;
+}
+textarea{
+	width: 326px;
+	height: 92px;
+	color: #999;
+	font-size: 12px;
+	padding-top: 10px;
+	background: #ebebeb;
+	resize:none;
+}
+.input-3{
+	width: 74px;
+	height: 33px;
+	background: #ebebeb;
+}
+img{
+	width: 35px;
+	height: 33px;
+	background: #aea9a9;
+}
+.a-a{
+	height: 33px;
+	line-height: 33px;
+	color: #0027b8;
+	font-size: 12px;
+	text-decoration: underline;
+}
+.tj{
+	float: right;
+	width: 86px;
+	height: 33px;
+	background: #70007a;
+	font-size: 14px;
+	color: #fff;
+	margin-top: 40px;
+	text-align: center;
+	line-height: 33px;
+}
+.al{
+	float: right;
+	text-decoration: underline;
+	color: #0027b8;
+	font-size: 12px;
+}

@@ -1,0 +1,89 @@
+*{
+	font-family: "microsoft yahei"
+}
+body{
+	background-color: #09070e;
+}
+.head{
+	width: 100%;
+	height: 34px;
+	min-width: 1140px;
+	background: #010102;
+}
+.head-m{
+	width: 1140px;
+	height: 34px;
+	margin: 0px auto;
+}
+.head-m ul {
+	height: 34px;
+}
+.head-m ul li{
+	float: left;
+	color: #fff;
+	height: 34px;
+	line-height: 34px;
+}
+.head-m ul li a{
+	color:#fff;
+	font-size: 12px;
+}
+.head-m ul .li1{
+	margin: 0px 64px 0px 106px;
+}
+
+.head-m ul .li3{
+	margin: 0px 50px 0px 50px;
+}
+.head-m ul .li5{
+	margin: 0px 30px 0px 30px;
+}
+.head-m ul .li7,.head-m ul .li8,.head-m ul .li9,.head-m ul .li10{
+	margin-left: 48px;
+}
+.head-m ul .li11 a{
+	float: left;
+	width: 13px;
+	height: 14px;
+	margin: 10px 0px 0px 48px;
+	background: url(../img/shouye/icon.png) no-repeat -39px 0px;
+}
+.title{
+	width: 1140px;
+	margin: 0px auto;
+	color: #fff;
+	font-size: 18px;
+	padding: 34px 0px 18px 0px;
+	border-bottom: 1px solid #1f1a2e;
+}
+
+.bottom{
+	width: 100%;
+	min-width: 1140px;
+	height: 60px;
+	background-color: #f4f4f4;
+}
+.bottom-text{
+	width: 1140px;
+	margin: 0px auto;
+}
+.bottom-text ul li {
+	float: left;
+	margin-right: 45px;
+	height: 60px;
+	line-height: 60px;
+}
+.bottom-text ul li a{
+	font-size: 12px;
+	color: #6a6a6a;
+}
+.bottom-text ul .li-1{
+	margin-right: 0px;
+}
+.bottom-text ul .li-2{
+	float: right;
+	font-size: 12px;
+	letter-spacing: -1px;
+	margin-right: 0px;
+	color: #9e9e9e;
+}

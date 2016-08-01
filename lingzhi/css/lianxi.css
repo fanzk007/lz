@@ -1,0 +1,84 @@
+.text{
+	width: 1434px;
+	height: 924px;
+	margin: 0px auto ;
+	overflow: hidden;
+	background: url(../img/19.png) no-repeat ;
+}
+.text-1{
+	width: 570px;
+	height: 194px;
+	margin: 0px auto ;
+	overflow: hidden;
+	background: #fff;
+}
+.text .p1{
+	width: 108px;
+	height: 28px;
+	text-align: center;
+	line-height: 28px;
+	margin-left: 432px;
+	background: #cb00da;
+	color:#fff;
+	margin-top: 54px;
+	font-size: 16px;
+}
+.p-1,.p-2,.p-3{
+	margin-left:14px; 
+}
+.p-1{
+	margin: 40px 0px 38px 14px;
+	font-size: 16px;
+	color: #3b3b3b;
+}
+.p-2 {
+	margin-bottom: 15px;
+}
+span{
+	float: left;
+	color: #999;
+	text-indent: -1px;
+	font-size: 14px;
+}
+.p-2 .span1 i{
+	display: inline-block;
+	height: 13px;
+	margin-right: 5px;
+	width: 12px;
+	background: url(../img/shouye/icon.png)  no-repeat 0px -56px;
+
+}
+.p-2 .span2{
+	margin-left: 83px;
+}
+.p-2 .span2 i{
+	display: inline-block;
+	height: 20px;
+	margin-right: 5px;
+	width: 11px;
+	background: url(../img/shouye/icon.png)  no-repeat -69px 0px;
+
+}
+.p-3 .span1 i{
+	display: inline-block;
+	height: 18px;
+	margin-right: 5px;
+	width: 12px;
+	background: url(../img/shouye/icon.png)  no-repeat 0px -73px;
+
+}
+.p-3 .span2{
+	margin-left: 66px;
+}
+.p-3 .span2 i{
+	display: inline-block;
+	height: 15px;
+	margin-right: 5px;
+	width: 12px;
+	background: url(../img/shouye/icon.png)  no-repeat -88px 0px;
+
+}
+.map{
+	width: 401px;
+	margin: 60px auto 0px;
+}

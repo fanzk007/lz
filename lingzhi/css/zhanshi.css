@@ -1,0 +1,94 @@
+.text{
+	width: 1140px;
+	margin: 30px auto 0px;
+	border: none;
+	background: url(../img/1.png) no-repeat 0px -170px;
+}
+.t1{
+	height: 223px;
+	padding: 46px 30px;
+	margin-bottom: 22px;
+	background: url(../img/bbb.png) #f5f5f5 no-repeat left bottom;
+}
+.t2{
+	background: url(../img/bbb.png) #f5f5f5 no-repeat right bottom;
+}
+.div1{
+	float: left;
+}
+.div2{
+	float: right;
+}
+p{
+	width: 520px;
+}
+.img1{
+	width: 362px;
+	height: 222px;
+}
+.p1{
+	font-size: 20px;
+	color: #3b3b3b;
+}
+.p2{
+	width: 24px;
+	height: 4px;
+	margin: 12px 0px 20px 0px;
+	background: url(../img/bb.png) no-repeat;
+}
+.p3{
+	font-size: 12px;
+	color: #3c3c3c;
+	margin-bottom: 14px;
+}
+.p4{
+	font-size: 12px;
+	line-height: 22px;
+	color: #3c3c3c;
+}
+.aa{
+	display: block;
+	width: 92px;
+	margin-top: 20px;
+	height: 34px;
+	text-align: center;
+	line-height: 34px;
+	color: #ef3b06;
+	border: 1px solid #ef3b06;
+}
+.text-4 {
+	margin: 10px 0px 44px 0px;
+}
+.text-4 a,.text-4 span,.text-4 input{
+	float: right;
+	margin-right: 3px;
+	height: 24px;
+	text-align: center;
+	line-height: 24px;
+	font-size: 12px;
+	background:#ebebeb;
+}
+.text-4 .a1{
+	width: 24px;
+	
+}
+.text-4 .a2{
+	width: 54px;
+}
+.text-4 .ab{
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 .a3{
+	width: 32px;
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 span{
+	color: #fff;
+	padding: 0px 4px 0px 4px;
+	background: #09070e;
+}
+.text-4 input{
+	width: 38px;
+}

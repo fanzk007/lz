@@ -1,0 +1,83 @@
+.text{
+	width: 1140px;
+	margin: 30px auto 0px;
+	border: none;
+	overflow: hidden;
+	background: url(../img/1.png) no-repeat 0px -170px;
+}
+.text-1{
+	float: left;
+	padding: 15px 21px 14px 15px ;
+	width: 526px;
+	height: 115px;
+	margin-bottom: 14px;
+	background: #fff;
+}
+.text-2{
+	float: right;
+}
+.text-1 img {
+	float: left;
+	width: 138px;
+	height: 84px;
+}
+.p1{
+	font-size: 14px;
+	margin-bottom: 10px;
+	color: #3b3b3b;
+}
+
+.p2{
+	color: #3b3b3b;
+	letter-spacing: -1px;
+	margin-bottom: 8px;
+	font-size: 12px;
+}
+.p3{
+	color: #3b3b3b;
+	font-size: 12px;
+	text-align: right;
+}
+.text-1 div{
+	float: right;
+}
+.text-1 div p{
+	width: 378px;
+}
+.text-4 {
+	float: right;
+	margin: 14px 0px 44px 0px;
+}
+.text-4 a,.text-4 span,.text-4 input{
+	float: right;
+	margin-right: 3px;
+	height: 24px;
+	text-align: center;
+	line-height: 24px;
+	font-size: 12px;
+	background:#ebebeb;
+}
+.text-4 .a1{
+	width: 24px;
+	
+}
+.text-4 .a2{
+	width: 54px;
+}
+.text-4 .ab{
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 .a3{
+	width: 32px;
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 span{
+	color: #fff;
+	padding: 0px 4px 0px 4px;
+	background: #09070e;
+}
+.text-4 input{
+	width: 38px;
+}

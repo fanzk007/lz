@@ -1,0 +1,51 @@
+.text{
+	width: 1140px;
+	height: 1013px;
+	margin: 38px auto 45px;
+	overflow: hidden;
+	background: url(../img/8.png) #f5f5f5 no-repeat left bottom;
+}
+.text-1{
+	width: 1020px;
+	height: 812px;
+	margin: 56px auto 0px;
+	padding: 30px;
+	background: #fff;
+}
+.text-1 .p1{
+	width: 108px;
+	height: 28px;
+	text-align: center;
+	line-height: 28px;
+	margin: -60px 0px 0px -30px;
+	background: #cb00da;
+	color: #fff;
+	font-size: 16px;
+}
+.text-1 .div1 {
+	margin-top: 30px;
+	margin-bottom: 28px;
+}
+ .text-1 .div2 div{
+ 	float: left;
+ }
+ .text-1 .div2 p{
+	width: 668px;
+	font-size: 12px;
+	color:#3b3b3b;
+	text-indent: 2em;
+	margin-bottom: 12px;
+	letter-spacing: -1px;
+}
+.text-1 .div2 img{
+	float: right;
+}
+.text-1 .div3{
+	margin-top: 34px;
+}
+.text-1 .div3 .img1{
+	float: left;
+}
+.text-1 .div3 .img2{
+	float:right;
+}

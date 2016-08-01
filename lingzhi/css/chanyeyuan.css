@@ -1,0 +1,77 @@
+.text{
+	width: 1140px;
+	margin: 0px auto;
+	margin-top: 26px;
+	background: url(../img/1.png) no-repeat 0px -170px;
+}
+.text-1{
+	width: 1076px;
+	height: 334px;
+	margin-bottom: 24px;
+	padding: 42px 36px 42px 22px;
+	background: url(../img/b.png) #f5f5f5 no-repeat left bottom;
+}
+.text-1 .p1{
+	font-size: 20px;
+	color: #3b3b3b;
+}
+.text-2{
+	background: url(../img/b.png) #f5f5f5 no-repeat right bottom;
+}
+.text-1 .div1{
+	float: left;
+}
+.text-1 .div2{
+	float: right;
+	
+}
+.text-1 div i{
+	display: block;
+	width: 24px;
+	height: 4px;
+	margin-bottom: 16px;
+	background: url(../img/10.png) no-repeat;
+}
+.text-1 div p{
+	font-size: 12px;
+	color: #3c3c3c;
+	width: 428px;
+	letter-spacing: -1px;
+	margin-bottom: 14px;
+}
+.text-4 {
+	margin: 10px 0px 44px 0px;
+}
+.text-4 a,.text-4 span,.text-4 input{
+	float: right;
+	margin-right: 3px;
+	height: 24px;
+	text-align: center;
+	line-height: 24px;
+	font-size: 12px;
+	background:#ebebeb;
+}
+.text-4 .a1{
+	width: 24px;
+	
+}
+.text-4 .a2{
+	width: 54px;
+}
+.text-4 .aa{
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 .a3{
+	width: 32px;
+	color: #fff;
+	background: #7b2783;
+}
+.text-4 span{
+	color: #fff;
+	padding: 0px 4px 0px 4px;
+	background: #09070e;
+}
+.text-4 input{
+	width: 38px;
+}
